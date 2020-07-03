@@ -36,5 +36,25 @@ namespace veterinary_management_system
         {
 
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            string username = txtUserName.Text;
+            string pass = txtPassword.Text;
+
+            if(username == "admin" && pass == "admin")
+            {
+                MessageBox.Show("Welcome to the Dashboard !");
+            }
+            else
+            {
+                MessageBox.Show("Invalid Username or Password");
+            }
+        }
     }
 }
