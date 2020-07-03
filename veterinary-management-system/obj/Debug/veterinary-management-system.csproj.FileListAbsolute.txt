@@ -8,3 +8,12 @@ C:\Users\Hiranya\Documents\GitHub\veterinary-management-system\veterinary-manage
 C:\Users\Hiranya\Documents\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.exe
 C:\Users\Hiranya\Documents\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.pdb
 C:\Users\Hiranya\Documents\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary_management_system.Form1.resources
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\bin\Debug\veterinary-management-system.exe.config
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\bin\Debug\veterinary-management-system.exe
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\bin\Debug\veterinary-management-system.pdb
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary_management_system.Form1.resources
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary_management_system.Properties.Resources.resources
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.exe
+C:\Users\User\Desktop\GitHub\veterinary-management-system\veterinary-management-system\obj\Debug\veterinary-management-system.pdb
